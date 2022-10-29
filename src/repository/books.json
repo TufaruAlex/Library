@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1000,
+        "title": "Watchmen",
+        "author": "Alan Moore"
+    },
+    {
+        "id": 1001,
+        "title": "Batman: Year One",
+        "author": "Frank Miller"
+    },
+    {
+        "id": 1002,
+        "title": "The Silver Eyes",
+        "author": "Scott Cawthon"
+    },
+    {
+        "id": 1003,
+        "title": "Ion",
+        "author": "Liviu Rebreanu"
+    }
+]

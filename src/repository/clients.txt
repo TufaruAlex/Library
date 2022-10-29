@@ -1,0 +1,10 @@
+1000, Bruce Wayne
+1001, Theresa Roberts
+1002, Steven Hawkings
+1003, Philip Screw
+1004, Stan Lee
+1005, Matt Murdock
+1006, Dwight Schrute
+1007, Maria Perry
+1008, Andrew Garfield
+1009, Amanda Waller

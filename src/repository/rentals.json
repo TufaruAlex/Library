@@ -1,0 +1,26 @@
+[
+    {
+        "rental id": 1001,
+        "book id": 1002,
+        "client id": 1003,
+        "rental date": "2021-06-24"
+    },
+    {
+        "rental id": 1002,
+        "book id": 1004,
+        "client id": 1005,
+        "rental date": "2021-10-06"
+    },
+    {
+        "rental id": 1003,
+        "book id": 1006,
+        "client id": 1007,
+        "rental date": "2021-02-07"
+    },
+    {
+        "rental id": 1004,
+        "book id": 1008,
+        "client id": 1009,
+        "rental date": "2021-09-02"
+    }
+]

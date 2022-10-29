@@ -1,0 +1,11 @@
+1000, Watchmen, Alan Moore
+1001, Batman: Year One, Frank Miller
+1002, Journey to the Center of the World, Jules Verne
+1004, Are You Smart Enough to Work at Google?, William Poundstone
+1005, The Silver Eyes, Scott Cawthon
+1006, Kenobi, John Jackson Miller
+1007, The Art of War, Sun Tzu
+1008, Dune, Frank Herbert
+1009, Sans Famille, Hector Malot
+1003, Twenty Thousand Leagues Under the Seas, Jules Verne
+1234, Ion, Liviu Rebreanu
