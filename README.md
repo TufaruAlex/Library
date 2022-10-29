@@ -1,2 +1,2 @@
 # Library
-A console-based library management application made in Python
+A menu-driven console-based library management application made in Python. The application features the option of renting or returning a book, a case-insensitive, partial string matching search for both clients and books, different statistics and unlimited undo/redo functionality. The app can use one of three possible repository sets: in-memory, text-file and binary file(using object serialization).
